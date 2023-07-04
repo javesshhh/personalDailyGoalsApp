@@ -1,0 +1,23 @@
+nav{
+    background-color: rgb(42, 37, 150);
+    color: rgb(146, 167, 24);
+    padding: 20px;
+    font-size: large;
+    font-family: 'Roboto', sans-serif;
+    text-align: center
+}
+
+.header{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: large;
+    box-shadow: 0 0 10px rgb(0,0,0,0.3);
+}
+
+.header>a{
+    margin: 20px
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
